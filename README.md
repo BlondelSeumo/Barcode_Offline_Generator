@@ -1,2 +1,2 @@
 # Barcode_Offline_Generator
-This offline barcode generator demonstrates the capabilities of the TBarCode SDK barcode components. TBarCode simplifies bar code creation in your application
+This offline barcode generator demonstrates the capabilities of the TBarCode SDK barcode components. TBarCode simplifies bar code creation in your application - e.g. in C# .NET, VB .NET, Microsoft® ASP.NET, ASP, PHP, Delphi and other programming languages. Test this online barcode-generator without any software installation (Terms of Service) and generate your barcodes right now: EAN, UPC, GS1 DataBar, Code-128, QR Code®, Data Matrix, PDF417, Postal Codes, ISBN, etc.
